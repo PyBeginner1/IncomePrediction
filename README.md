@@ -1,2 +1,2 @@
 # IncomePrediction
-Predicting Income using tensorflow
+Predicting Income using tensorflow.
